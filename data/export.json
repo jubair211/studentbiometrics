@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-06-14",
+    "sleep_hours": 6.0,
+    "study_hours": 4.0,
+    "breaks_hours": 1.0,
+    "stress_level": 3,
+    "shift_hours": 5.0,
+    "productivity": null
+  },
+  {
+    "date": "2026-06-14",
+    "sleep_hours": 7.0,
+    "study_hours": 5.0,
+    "breaks_hours": 2.0,
+    "stress_level": 2,
+    "shift_hours": 3.0,
+    "productivity": null
+  },
+  {
+    "date": "2026-06-14",
+    "sleep_hours": 5.0,
+    "study_hours": 6.0,
+    "breaks_hours": 1.0,
+    "stress_level": 4,
+    "shift_hours": 6.0,
+    "productivity": null
+  }
+]
